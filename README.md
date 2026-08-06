@@ -45,7 +45,7 @@ The confirmation message appears only when both fields are filled, identical,
 
 ## Live URL
 
-https://jinfusion-edu.github.io/it102-password-strength-validator/
+https://edu.jinfusion.dev/it102-password-strength-validator/
 
 ## AI collaboration — tool and prompt
 
